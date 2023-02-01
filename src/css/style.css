@@ -209,6 +209,7 @@ li > ul:first-child {
 
 ul > li {
 	list-style: disc;
+	text-align: justify;
 }
 
 ul.to-do-list {
@@ -383,6 +384,7 @@ input[type="checkbox"] {
 
 p {
 	margin-top: 0.5em;
+	text-align: justify;
 	margin-bottom: 0.5em;
 }
 
